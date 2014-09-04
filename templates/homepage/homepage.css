@@ -1,0 +1,470 @@
+*{
+	list-style-type: none;
+	margin: 0 px;
+	padding:0;
+}
+a,img{
+	border: 0;
+}
+a{color:#3b3b3b;text-decoration:none;font-family:"微软雅黑";}
+a:hover{
+	text-decoration:none;
+	color:#00468C;
+}
+body{
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	font-family:"雅黑宋体", "微软雅黑", "新宋体", "宋体";
+}
+.clearfix:after{content:".";display:block;height:0;visibility:hidden;clear:both;}
+.clearfix{zoom:1;}
+.b_cont{
+	width: 1178px;
+	height: 382px;
+	overflow: hidden;
+	margin: auto 0 auto;
+	position: relative;
+}
+.ct_p_05{width:1178px;height:382px;float:left;text-align:center;}
+.scrDotList_wrap{
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	bottom: 11px;
+	left: 1186px;
+}
+.scrDotList{padding:0 10px;zoom:1;line-height: 0;}
+.scrDotList span{display:inline-block;width:10px;height:10px;background:#000000;cursor:pointer;font-size:0;line-height:0;vertical-align:top;font-size: 0px;margin: 0 5px;}
+.scrDotList span.on{background:#49cff1;}
+
+a.scrArrAbsLeft{position:absolute;left:0;bottom:0px;width:75px;height:75px;background:url(../images/0813_ent_zyc_images_v2.png) 0px -136px no-repeat;cursor:pointer;}
+a.scrArrAbsLeft:hover{background-position: 0 -217px;}
+a.scrArrAbsRight{
+	position: absolute;
+	right: 0;
+	bottom: 0px;
+	width: 75px;
+	height: 75px;
+	background: url(../images/0813_ent_zyc_images_v2.png) no-repeat -83px -136px;
+	cursor: pointer;
+}
+a.scrArrAbsRight:hover{background-position: -83px -217px;}
+.tabletrfcont {
+	font-size: 24px;
+	font-weight: bold;
+	color: #0E5092;
+	position: absolute;
+	top: 602px;
+	left: 93px;
+	width: 103px;
+	height: 35px;
+}
+#divtable {
+	background-color: #DDDDDD;
+	height: 200px;
+	width: 1178px;
+	margin: 0 auto;
+	font-family: "华文仿宋";
+	font-size: 18px;
+	color: #FFF;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+#divtable table {
+	color: #00468C;
+}
+#divtable table {
+	font-weight: bold;
+}
+#divtable table {
+	font-family: "小宋";
+}
+#tablestyle {
+	font-size: 12px;
+	color: #000;
+}
+#tablestyle {
+	font-weight: normal;
+}
+#tablestyle {
+	font-size: 12px;
+}
+#divtable div {
+	background-color: #00468C;
+	height: 40px;
+}
+.tablefont {
+	font-size: 24px;
+	color: #00469C;
+	position: absolute;
+	height: auto;
+	width: auto;
+}
+.tablefont {
+	font-family: "宋体";
+	color: #00468C;
+}
+.tablefontstyle {
+	font-size: 24px;
+	color: #00468C;
+}
+.divtablef {
+	color: #00468C;
+	font-size: 24px;
+}
+.divleft {
+	font-size: 24px;
+	color: #00468C;
+}
+#divleft div {
+	font-size: 14px;
+	color: #000000;
+	width: 400px;
+	text-align: left;
+}
+#divone #divones p {
+	font-family: "黑体";
+}
+#divone #divones p {
+	font-family: "华文仿宋";
+}
+#divone #divones p strong {
+	font-family: "黑体";
+	font-size: 14px;
+}
+#divone #divones p {
+	font-family: "微软雅黑";
+	text-align: left;
+	font-size: 13px;
+}
+#divtwos p {
+	font-family: "华文仿宋";
+	font-size: 16px;
+	line-height: 20px;
+	text-align: left;
+}
+#divtwos p strong {
+	font-size: 18px;
+	font-family: "黑体";
+	text-align: left;
+}
+#divone #divonef #divonefwo {
+	font-family: "华文仿宋";
+	font-size: 18px;
+	color: #FFF;
+	margin: 40px;
+}
+#divtwo #divtwof #divtwofwo {
+	font-family: "华文仿宋";
+	font-size: 18px;
+	color: #FFF;
+}
+#divtable div pre {
+	font-weight: bold;
+}
+#titleone {
+	font-family: "微软雅黑";
+	font-size: 21px;
+	line-height: 20px;
+	color: #00468C;
+	text-align: left;
+	text-indent: 0.8cm;
+}
+#divleft #divthreeful #titletwo {
+	font-family: "微软雅黑";
+	font-size: 21px;
+	line-height: 20px;
+	color: #00468C;
+	text-align: left;
+	text-indent: 0.8cm;
+}
+#divfourful #titlethree {
+	font-family: "微软雅黑";
+	line-height: 20px;
+	color: #00468C;
+	text-align: left;
+	font-size: 21px;
+	text-indent: 0.8cm;
+}
+#one #divone #divonef p {
+	font-size: 14px;
+}
+#one #divone #divonef #partone {
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #FFF;
+}
+#one #divone #divonef #parttwo {
+	font-family: "微软雅黑";
+	font-size: 24px;
+	color: #FFF;
+	margin-top: 10px;
+}
+#one #divtwo #divtwof #partone {
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #FFF;
+}
+#one #divtwo #divtwof #parttwo {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-family: "微软雅黑";
+	font-size: 24px;
+	color: #FFFFFF;
+}
+#one #divone #divones #onetitle {
+	font-size: 16px;
+	font-family: "微软雅黑";
+	color: #000;
+	text-align: left;
+}
+#one #divone #divones #onecontent {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #666;
+	text-align: left;
+	text-indent: 0.5cm;
+	line-height: 20px;
+	width: auto;
+}
+#one #divtwo #divtwos #twotitle {
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #000;
+	text-align: center;
+}
+#one #divtwo #divtwos #twotitle {
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #000;
+	text-align: left;
+}
+#one #divtwo #divtwos #twocontent {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #666;
+	text-align: left;
+	text-indent: 0.5cm;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	line-height: 20px;
+}
+#divleft #divthreeful li {
+	font-size: 14px;
+	font-family: "微软雅黑";
+	line-height: 20px;
+	color: #000;
+}
+#divleft #divthreeful #divthreeul {
+	width: 300px;
+	color: #000;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 20px;
+	padding: 30px 30px 30px 35px;
+	margin: 0px
+}
+#divfourful #divfourul {
+	width: 300px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 20px;
+	color: #000;
+	text-align: left;
+	margin: 0px;
+	padding-top:30px;
+	padding-left:0px;
+	padding-right:30px;
+	padding-bottom:30px;
+}
+#divtable table tr td {
+	font-family: "微软雅黑";
+	font-weight: normal;
+}
+#footer {
+	background-color: #00468C;
+	height: 30px;
+	width:1178px;
+	margin:0px;
+}
+#footer pre {
+	font-size: 12px;
+	font-family: "微软雅黑";
+	line-height: 30px;
+	color: #FFF;
+	text-align: right;
+	text-indent:1cm;
+}
+.left
+{
+	width:111px;
+	height:104px;
+	float:left;
+	margin:0px;
+}
+.right
+{
+	width:818px;
+	height:104px;
+	float:right;
+	margin:0px;
+}
+.main
+{
+}
+.header
+{
+	width: 1178px;
+	height: 104px;
+	margin-top: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #00468C;
+}
+.CenterDiv{
+	width:1178px;
+	height:240px;
+	margin-top:20px;
+}
+.CDleft{
+	width:570px;
+	height:240px;
+	float:left;
+}
+.CDright{
+	width:570px;
+	height:240px;
+	float:right;
+}
+.titlefour
+{
+	width:570px;
+	font-family: "微软雅黑";
+	font-size: 21px;
+	line-height: 20px;
+	color: #00468C;
+	text-align: left;
+	text-indent: 0.8cm;
+	margin:0;
+}
+.titlefive
+{
+	width:570px;
+	font-family: "微软雅黑";
+	font-size: 21px;
+	line-height: 20px;
+	color: #00468C;
+	text-align: left;
+	text-indent: 0.8cm;
+	margin:0;
+}
+.lead{
+	width: 490px;
+	margin: 30px 30px 30px 20px;
+	height: 160px;
+}
+.TZleft{
+	width: 300px;
+	float: left;
+	height: 160px;
+	padding: 30px 30px 30px 35px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 20px;
+	text-align: left;
+}
+.TZright{
+	width:140px;
+	float:right;
+	height:160px;
+	padding-bottom:30px;
+	padding-top:30px;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	line-height: 20px;
+	text-align: left;
+}
+.CenterDiv .CDleft .lead table tr {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #00468C;
+}
+.CenterDiv .CDleft .lead table tr {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #FFF;
+	background-color: #00468C;
+}
+.CenterDiv .CDleft .lead table tr td {
+	font-size: 16px;
+}
+#navigation, #navigation li ul { 
+list-style-type:none; 
+} 
+#navigation { 
+margin:0; 
+font-family:"微软雅黑"; 
+} 
+#navigation li { 
+float:left; 
+text-align:center; 
+position:relative; 
+font-family:"微软雅黑"; 
+font-size:16px; 
+width:115px; 
+height:35px; 
+line-height:35px; 
+} 
+#navigation li a:link, #navigation li a:visited { 
+display:block; 
+text-decoration:none; 
+color:#000; 
+border:0;  
+background:#FFF; 
+padding-left:10px; 
+} 
+#navigation li a:hover { 
+color:#FFF; 
+background:#00468C; 
+} 
+#navigation li ul li a:hover { 
+color:#000; 
+background:#C6E2FF; 
+} 
+#navigation li ul { 
+border:1.5px solid #00468C;
+display:none; 
+position:absolute; 
+z-index:2;   
+width:132px; 
+} 
+#navigation li ul li{
+	font-size:14px;
+	height:30px;
+	line-height:30px;
+	width:133.5px;
+	text-align:left;
+	text-indent:0.5cm;
+	border-right:1.5px solid #00468C
+
+}
+#navigation li ul li ul { 
+display:none; 
+position:absolute;   
+width:135px; 
+} 
+.Box{
+	margin:0 auto;
+	width:1100px;
+	padding-left:60px;
+	height:35px;
+}
+	

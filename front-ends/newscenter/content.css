@@ -41,7 +41,7 @@ html {
 	z-index:2;
 	position:absolute;
 	top:350px;
-	left:100px;
+	left:9%;
 }
 .acc_trigger {
 	background:#FFF;
@@ -87,13 +87,13 @@ html {
 } 
 /*内容块电信快讯*/
 #divone{
-	width:85%;
+	width:1133px;
 	height:730px; 
 	margin-top:20px;
 	z-index:1;
 }
 #news{
-	width:65%;
+	width:740px;
 	height:730px; 
 	float:right;
 }
@@ -129,7 +129,7 @@ p{
 }
 /*翻页部分*/
 .page{
-	margin-top:40px;
+	margin-top:60px;
 	margin-bottom:40px;
 	height:40px;
 }

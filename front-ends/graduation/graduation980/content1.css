@@ -1,0 +1,64 @@
+*{
+	list-style-type: none;
+	margin: 0 px;
+	padding:0;
+}
+*, * focus {
+	outline: none;
+	margin: 0;
+	padding: 0;
+}
+a,img{
+	border: 0;
+}
+a{color:#3b3b3b;text-decoration:none;font-family:"微软雅黑";}
+a:hover{
+	text-decoration:none;
+	color:#00468C;
+}
+body{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-family: 830;
+}
+/*毕业留恋*/
+.aside
+{
+	position: absolute;
+	left:210px;
+	top: 290px;
+	width: 250px;
+	z-index: 999;
+	height: 141px;
+}
+.name
+{
+	width:125%;
+	height: 140px;
+	background-color: #00468C;
+	font-family: "微软雅黑","黑体";
+}
+.top
+{
+	width: 89%;
+	height:40px;
+	margin-left: 20px;
+	border-bottom: #FFFFFF solid 1px;
+	font-size: 30px;
+	font-family: "微软雅黑","黑体";
+	color: #FFFFFF;
+	text-align: right;
+	position: relative;
+	top: 70px;
+}
+.bottom
+{
+	width: 83%;
+	height: 15px;
+	margin-left: 30px;
+	font-size: 14px;
+	color: #CCC;
+	text-align: right;
+	position: relative;
+	top: 75px;
+}
+
